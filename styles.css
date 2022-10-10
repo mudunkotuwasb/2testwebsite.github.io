@@ -7,7 +7,7 @@
     position: relative;
     width: 100%;
     height: 100vh;
-    background: #eff4fd;
+    background: #dceef0;
 }
 nav{
     display: flex;
@@ -55,7 +55,7 @@ span {
 }
 .images img{
     height: 50%;
-    width: 550px;
+    width: 50%;
     position: absolute;
     left: 71%;
     bottom: 20%;
